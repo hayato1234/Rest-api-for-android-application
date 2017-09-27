@@ -4,4 +4,4 @@ link: (https://www.androidhive.info/2014/01/how-to-create-rest-api-for-android-a
 
 The website uses older version of Slim, and this project uses Slim3.
 
-You need to change the password in include/Config (where 'your pass').
+You need to change the password in include/Config.php (where 'your pass').
